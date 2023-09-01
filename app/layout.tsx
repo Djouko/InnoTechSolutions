@@ -7,8 +7,8 @@ import StarsCanvas from "./(StarMode)/Background_Stars";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata = {
-  title: "Htet Myat",
-  description: "Htet Myat",
+  title: "InnoTechSolutions",
+  description: "InnoTechSolutions",
 };
 
 export default function RootLayout({
@@ -18,9 +18,6 @@ export default function RootLayout({
 }) {
   return (
     <html lang="en">
-      <head>
-        <title>InnoTechSolutions</title>
-      </head>
       <body
         className={` bg-[#030014] overflow-y-scroll overflow-x-hidden  transition_ ${inter.className}`}
       >
