@@ -18,6 +18,9 @@ export default function RootLayout({
 }) {
   return (
     <html lang="en">
+      <head>
+        <title>InnoTechSolutions</title>
+      </head>
       <body
         className={` bg-[#030014] overflow-y-scroll overflow-x-hidden  transition_ ${inter.className}`}
       >
