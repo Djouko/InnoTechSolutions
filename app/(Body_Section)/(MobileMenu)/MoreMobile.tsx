@@ -52,7 +52,7 @@ function MoreMobile() {
           />
         </svg>
       </div>
-      <div className="w-full h-auto hover:bg-[#221d41] rounded-[8px] flex flex-row py-[13px] px-[5px] ">
+{/*       <div className="w-full h-auto hover:bg-[#221d41] rounded-[8px] flex flex-row py-[13px] px-[5px] ">
         <div className=" flex flex-col">
           <span className=" font-bold text-gray-200 text-[16px] ">
             Blog Comming Soon..
@@ -61,7 +61,7 @@ function MoreMobile() {
             Get valuable insights and tips on my blog.
           </p>
         </div>
-      </div>
+      </div> */}
       <Link
         href={"AboutMe"}
         className="w-full h-auto hover:bg-[#221d41] rounded-[8px] flex flex-row py-[13px] px-[5px] "
@@ -69,24 +69,24 @@ function MoreMobile() {
         <div className=" flex flex-col">
           <span className=" font-bold text-gray-200 text-[16px] ">About</span>
           <p className=" mt-[5px] text-[14px] text-gray-300 ">
-            Learn more about me, my work, and how I can help you with your
+            Learn more about us, our work, and how we can help you with your
             project.
           </p>
         </div>
       </Link>
       <a
-        href="https://www.youtube.com/channel/UCVBLPSX_7Tvm0iEFVMgd5-w"
+        href="https://www.youtube.com/channel/UCiiab31DBQN-j5F6NWQZb5g"
         className="w-full h-auto hover:bg-[#221d41] rounded-[8px] flex flex-row py-[13px] px-[5px] "
       >
         <div className=" flex flex-col">
           <span className=" font-bold text-gray-200 text-[16px] ">YouTube</span>
           <p className=" mt-[5px] text-[14px] text-gray-300 ">
-            Subscribe to my YouTube channel dedicated to teaching and sharing my
+            Subscribe to our YouTube channel dedicated to teaching and sharing our
             knowledge.
           </p>
         </div>
       </a>
-      <div className="w-full h-auto hover:bg-[#221d41] rounded-[8px] flex flex-row py-[13px] px-[5px] ">
+{/*       <div className="w-full h-auto hover:bg-[#221d41] rounded-[8px] flex flex-row py-[13px] px-[5px] ">
         <div className=" flex flex-col">
           <span className=" font-bold text-gray-200 text-[16px] ">
             Community Comming Soon..
@@ -96,7 +96,7 @@ function MoreMobile() {
             and get help from other developers.
           </p>
         </div>
-      </div>
+      </div> */}
       <div className="w-full h-auto hover:bg-[#221d41] active:scale-95 transition-all duration-100 select-none rounded-[8px] flex flex-row py-[13px] px-[5px] ">
         <div
           onClick={() => StarModeStatus()}
