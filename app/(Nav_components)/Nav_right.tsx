@@ -41,13 +41,12 @@ function Nav_right() {
       )}
       <div
         
-        id="button-primary"
         className={`px-[16px] py-[5px] ${
           data?.user ? " hidden" : ""
         }  border border-[#401f788e]    select-none active:scale-90 transition-all duration-100  font-medium rounded-[8px] text-white 
     cursor-pointer   `}
       >
-        <span>                 </span>
+        <span>                               </span>
       </div>
 
       <div
