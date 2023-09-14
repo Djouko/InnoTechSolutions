@@ -32,7 +32,7 @@ function Navbar() {
             <More />
           </div>
         </div>
-{/*         <Nav_right /> */}
+        <Nav_right />
       </div>
     </div>
   );
