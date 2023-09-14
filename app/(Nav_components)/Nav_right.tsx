@@ -16,7 +16,7 @@ function Nav_right() {
   const Image_src = data?.user?.image;
   return (
     <div className=" flex flex-row items-center ">
-      {Mobilemenu ? (
+{/*       {Mobilemenu ? (
         <div></div>
       ) : (
         <div
@@ -66,7 +66,7 @@ function Nav_right() {
         <span id="cursive" className=" text-gray-300 text-[12px] ">
           {data?.user?.name}
         </span>
-      </div>
+      </div> */}
     </div>
   );
 }
