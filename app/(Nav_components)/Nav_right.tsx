@@ -16,7 +16,7 @@ function Nav_right() {
   const Image_src = data?.user?.image;
   return (
     <div className=" flex flex-row items-center ">
-{/*       {Mobilemenu ? (
+      {Mobilemenu ? (
         <div></div>
       ) : (
         <div
@@ -39,7 +39,7 @@ function Nav_right() {
           </svg>
         </div>
       )}
-      <div
+{/*       <div
         onClick={() => dispatch(set_Signup(true))}
         id="button-primary"
         className={`px-[16px] py-[5px] ${
