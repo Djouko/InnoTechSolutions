@@ -39,15 +39,15 @@ function Nav_right() {
           </svg>
         </div>
       )}
-{/*       <div
-        onClick={() => dispatch(set_Signup(true))}
+      <div
+{/*         onClick={() => dispatch(set_Signup(true))} */}
         id="button-primary"
         className={`px-[16px] py-[5px] ${
           data?.user ? " hidden" : ""
         }  border border-[#401f788e]    select-none active:scale-90 transition-all duration-100  font-medium rounded-[8px] text-white 
     cursor-pointer   `}
       >
-        <span>Sign up</span>
+        <span>                 </span>
       </div>
 
       <div
@@ -66,7 +66,7 @@ function Nav_right() {
         <span id="cursive" className=" text-gray-300 text-[12px] ">
           {data?.user?.name}
         </span>
-      </div> */}
+      </div>
     </div>
   );
 }
