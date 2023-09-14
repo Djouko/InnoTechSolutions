@@ -41,7 +41,7 @@ function MobileMenu() {
         className=" w-full min-h-[50px] rounded-[10px] border
              hover:border-sky-500  border-[#7042f861] flex flex-row items-center font-semibold justify-center "
       >
-        Course
+        Soon
         <ChevronDownIcon className=" w-[20px] h-[20px]  text-gray-200 translate-y-[2px] group-hover:text-[#0000009e] group-hover:text-gray-50 ml-[10px]" />
       </div>
       <div
@@ -68,11 +68,10 @@ function MobileMenu() {
         <div className="w-full h-auto hover:bg-[#221d41] rounded-[8px] flex flex-row py-[13px] px-[5px] 600:px-[15px] ">
           <div className=" flex flex-col">
             <span className=" font-bold text-gray-200 text-[16px] hover:underline ">
-              Next js 13 Course Comming Soon..
+              Joro_Pay app Comming Soon..
             </span>
             <p className=" mt-[5px] text-[14px] text-gray-300 ">
-              An interactive course to learn Next js 13 + Type Script in a fun
-              and easy way
+              An application that revolutionizes the means of transaction and purchase in Africa
             </p>
           </div>
         </div>
@@ -102,7 +101,7 @@ function MobileMenu() {
         className=" w-full min-h-[50px] rounded-[10px] border pl-[25px]
              hover:border-sky-500  border-[#7042f861] mt-[15px] flex flex-row  text-gray-200 items-center font-semibold justify-center "
       >
-        Resources
+        Services
         <svg
           xmlns="http://www.w3.org/2000/svg"
           className="h-5 w-5 ml-[9px]"
