@@ -40,7 +40,7 @@ function Nav_right() {
         </div>
       )}
       <div
-{/*         onClick={() => dispatch(set_Signup(true))} */}
+        
         id="button-primary"
         className={`px-[16px] py-[5px] ${
           data?.user ? " hidden" : ""
