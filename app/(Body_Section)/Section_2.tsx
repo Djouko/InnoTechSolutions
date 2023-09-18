@@ -23,7 +23,7 @@ function Section_2() {
             id="Wecom-text"
             className=" text-[12px] 310:text-[14px] 370:text-auto"
           >
-            Joiner Full Stack Software Engineer
+            Trust us and we will do the rest.
           </div>
         </motion.div>
         <div className="  w-auto h-auto  animate-slideleftT2 mt-[24px] text-white  ">
@@ -38,20 +38,18 @@ function Section_2() {
           </span>
         </div>
         <p className=" animate-slideleftT3 text-[16px] 400:text-[19px] text-slate-400 mb-[20px]  ">
-          All the best and most modern resources at your fingertips. Access
-          online
+          Cutting-edge 
           {/*--->a*/}
-          <a className="Home_a ">Website</a>,{/*--->a*/}
-          <a className="Home_a">Mobile</a>,{/*--->a*/}
-          <a className="Home_a">Software</a>, coding examples, tutorials and
-          much more. All in one place
+          <a className="Home_a ">technology</a>,{/*--->a*/} limitless 
+          <a className="Home_a">innovation</a>.{/*--->a*/} Your 
+          <a className="Home_a">future</a>, our mission.
         </p>
         <a
           href="#Section_4"
           id="button-primary"
           className=" animate-slideleftT4 px-[20px] py-[7px] text-white  cursor-pointer hover:scale-105 active:scale-90  transition-all   duration-150 select-none rounded-[5px]"
         >
-          Start learing Now!
+          Discover us now!
         </a>
       </div>
       <div className=" w-[50%] h-full hidden 1140:flex flex-row items-center  select-none justify-between ">
